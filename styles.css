@@ -99,3 +99,13 @@ p {
 .button:hover {
   background-color: black;
 }
+
+#video {
+  align-items: center;
+  margin-top: 200px;
+  border-radius: 20px;
+  width: 300px;
+  height: 200px;
+  margin-top: 600px;
+  margin-bottom: 30px;
+}
