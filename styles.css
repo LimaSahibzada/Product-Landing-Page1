@@ -13,7 +13,6 @@ header {
 
 #nav-bar {
   display: inline-block;
-  padding: 0px;
   color: #fff;
   font-size: 24px;
   font-weight: bold;
@@ -32,7 +31,6 @@ header {
 }
 
 #email {
-  border: 2px solid black;
   border-radius: 5px;
   width: 200px;
   height: 40px;
@@ -70,7 +68,7 @@ header {
 }
 
 #header-img {
-  width:50px;
+  width: 50px;
   height: auto;
 }
 
@@ -137,7 +135,7 @@ footer {
 
 .footer-icons {
   justify-content: space-between;
-  padding: 16px 64px 0px 0px
+  padding: 16px 64px;
 }
 
 .footer-icons li {
@@ -160,8 +158,8 @@ footer {
     height: auto;
   }
 }
-  
-@media  (max-height: 600px) {
+
+@media (max-height: 600px) {
   .form {
     display: inline-block;
     margin-left: 78%;
