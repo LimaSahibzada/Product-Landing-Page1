@@ -159,3 +159,20 @@ footer {
   overflow: hidden;
   padding-left: 22px;
 }
+
+@media (max-height: 600px) {
+#header-img {
+  width: 50px;
+  height: auto;
+  }
+}
+  
+@media  (max-height: 600px) {
+.form {
+  margin-left: 1000px;
+  display: inline-block;
+  margin-left: 5px;
+  vertical-align: top;
+  position: relative;
+  }
+}
