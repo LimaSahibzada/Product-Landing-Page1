@@ -49,6 +49,10 @@ header {
   background-color: #356784;
 }
 
+.footer-icons li {
+  display: inline-block;
+}
+
 #nav-bar li {
   float: right;
   padding: 16px 25px;
@@ -56,6 +60,15 @@ header {
   font-size: 17px;
   align-items: center;
   list-style-type: none;
+}
+
+.footer-container a {
+  color: rgb(4, 3, 21);
+  padding: 42px 16px;
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: medium;
 }
 
 #nav-bar li a {
@@ -116,15 +129,6 @@ footer {
   position: sticky;
 }
 
-.footer-container a {
-  color: rgb(4, 3, 21);
-  padding: 42px 16px;
-  text-decoration: none;
-  font-family: Arial, Helvetica, sans-serif;
-  font-weight: bold;
-  font-size: medium;
-}
-
 .footer-left {
   margin-right: auto;
 }
@@ -136,10 +140,6 @@ footer {
 .footer-icons {
   justify-content: space-between;
   padding: 16px 64px;
-}
-
-.footer-icons li {
-  display: inline-block;
 }
 
 .footer-right {
