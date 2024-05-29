@@ -1,6 +1,6 @@
 body {
   font-family: serif;
-  background-image:  url(https://img.freepik.com/premium-photo/phones-12-right-side-white-background_187299-23951.jpg);
+  background-image: url(https://img.freepik.com/premium-photo/phones-12-right-side-white-background_187299-23951.jpg);
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-size: 100% 900px;
@@ -13,14 +13,13 @@ header {
 
 #nav-bar {
   display: inline-block;
-  padding:0px;
-  color:#fff;
-  font-size:24px;
-  font-weight:bold;
-  margin-bottom:5px;
+  padding: 0px;
+  color: #fff;
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 5px;
   margin-left: 900px;
   float: right;
-  display: flex;
 }
 
 .form {
@@ -40,9 +39,8 @@ header {
   box-shadow: 5px 10px 5px #4e818d;
   border: none;
 }
-  
-#submit{
-  border: 2px solid black;
+
+#submit {
   border-radius: 5px;
   height: 40px;
   box-shadow: 5px 10px 5px #4e818d;
@@ -71,23 +69,24 @@ header {
   color: #356784;
 }
 
-#header-img{
+#header-img {
   width:50px;
   height: auto;
 }
+
 h1 {
   padding: 180 10 10 30;
 }
-  
+
 p {
-  font-size: 18px;  
+  font-size: 18px;
   margin-left: 20px;
 }
 
 .button {
   background-color: #688ca1;
   border: none;
-  border-radius: 8px;;
+  border-radius: 8px;
   color: rgb(255, 255, 255);
   padding: 15px 32px;
   text-align: center;
@@ -102,7 +101,6 @@ p {
 
 #video {
   align-items: center;
-  margin-top: 200px;
   border-radius: 20px;
   width: 300px;
   height: 200px;
@@ -114,12 +112,12 @@ footer {
   background-color: #688ca1;
   color: #fff;
   text-align: center;
-  height:100px;
-  width:100%;
+  height: 100px;
+  width: 100%;
   padding: 80px 0;
   position: sticky;
 }
- 
+
 .footer-container a {
   color: rgb(4, 3, 21);
   padding: 42px 16px;
@@ -130,7 +128,7 @@ footer {
 }
 
 .footer-left {
-  margin-right: auto
+  margin-right: auto;
 }
 
 .fa:hover {
@@ -142,16 +140,12 @@ footer {
   padding: 16px 64px 0px 0px
 }
 
-.footer-icons ul {
-  list-style-type: none;
-}
-
 .footer-icons li {
   display: inline-block;
 }
 
 .footer-right {
-  margin-left: auto
+  margin-left: auto;
 }
 
 .copyright {
@@ -161,17 +155,17 @@ footer {
 }
 
 @media (max-height: 600px) {
-#header-img {
-  width: 50px;
-  height: auto;
+  #header-img {
+    width: 50px;
+    height: auto;
   }
 }
   
 @media  (max-height: 600px) {
-.form {
-  display: inline-block;
-  margin-left: 78%;
-  vertical-align: top;
-  position: relative;
+  .form {
+    display: inline-block;
+    margin-left: 78%;
+    vertical-align: top;
+    position: relative;
   }
 }
