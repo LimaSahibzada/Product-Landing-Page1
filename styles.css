@@ -109,3 +109,53 @@ p {
   margin-top: 600px;
   margin-bottom: 30px;
 }
+
+footer {
+  background-color: #688ca1;
+  color: #fff;
+  text-align: center;
+  height:100px;
+  width:100%;
+  padding: 80px 0;
+  position: sticky;
+}
+ 
+.footer-container a {
+  color: rgb(4, 3, 21);
+  padding: 42px 16px;
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: medium;
+}
+
+.footer-left {
+  margin-right: auto
+}
+
+.fa:hover {
+  color: #f1f0f8;
+}
+
+.footer-icons {
+  justify-content: space-between;
+  padding: 16px 64px 0px 0px
+}
+
+.footer-icons ul {
+  list-style-type: none;
+}
+
+.footer-icons li {
+  display: inline-block;
+}
+
+.footer-right {
+  margin-left: auto
+}
+
+.copyright {
+  color: #000205;
+  overflow: hidden;
+  padding-left: 22px;
+}
