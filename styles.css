@@ -75,3 +75,27 @@ header {
   width:50px;
   height: auto;
 }
+h1 {
+  padding: 180 10 10 30;
+}
+  
+p {
+  font-size: 18px;  
+  margin-left: 20px;
+}
+
+.button {
+  background-color: #688ca1;
+  border: none;
+  border-radius: 8px;;
+  color: rgb(255, 255, 255);
+  padding: 15px 32px;
+  text-align: center;
+  font-size: 16px;
+  margin: 10px 30px;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: black;
+}
