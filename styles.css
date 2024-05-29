@@ -169,9 +169,8 @@ footer {
   
 @media  (max-height: 600px) {
 .form {
-  margin-left: 1000px;
   display: inline-block;
-  margin-left: 5px;
+  margin-left: 78%;
   vertical-align: top;
   position: relative;
   }
