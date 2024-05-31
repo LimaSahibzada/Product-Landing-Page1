@@ -15,7 +15,7 @@ Creating an iPhone product landing page  inspired me by a desire to showcase the
 
 - Below you can have a view of my page:
 
-![Technical Documentation page]![picof project](https://github.com/LimaSahibzada/Product-Landing-Page1/assets/167701815/542382ee-8da5-4f5a-9649-ef2cfd524cb1)
+![Product Landing page]!(https://github.com/LimaSahibzada/Product-Landing-Page1/assets/167701815/542382ee-8da5-4f5a-9649-ef2cfd524cb1)
 
 
 
