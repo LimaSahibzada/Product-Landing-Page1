@@ -1,3 +1,4 @@
+
 body {
   font-family: serif;
   background-image: url(https://img.freepik.com/premium-photo/phones-12-right-side-white-background_187299-23951.jpg);
@@ -87,11 +88,20 @@ header {
 
 h1 {
   padding: 180 10 10 30;
+  position: relative;
+  top: 200px;
+  left: 50px;
+
 }
 
 p {
   font-size: 18px;
   margin-left: 20px;
+  position: relative;
+  top: 200px;
+  left: 30px;
+
+  
 }
 
 .button {
@@ -104,6 +114,9 @@ p {
   font-size: 16px;
   margin: 10px 30px;
   cursor: pointer;
+  position: relative;
+  top: 200px;
+  left: 30px;
 }
 
 .button:hover {
