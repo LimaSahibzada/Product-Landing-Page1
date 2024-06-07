@@ -13,9 +13,9 @@ Creating an iPhone product landing page  inspired me by a desire to showcase the
 ## Demo 📸
 
 
-- Below you can have a view of my page:
+- Click on link and view my project:
 
-![Product Landing page]!(https://github.com/LimaSahibzada/Product-Landing-Page1/assets/167701815/542382ee-8da5-4f5a-9649-ef2cfd524cb1)
+![Product Landing page]!(https://limasahibzada.github.io/Product-Landing-Page1)
 
 
 
